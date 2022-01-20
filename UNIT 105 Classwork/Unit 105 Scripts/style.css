@@ -1,0 +1,95 @@
+.control{
+    width: 50%;
+    color: white;
+}
+.error{
+    border: 2px solid red;
+}
+body{
+    background-image: url(../img/—Pngtree—blue\ carbon\ background\ with\ sport_1200848.jpg);
+}
+
+h1{
+    color: white;
+    position: fixed;
+    padding-left: 700px;
+    top: 33px;
+    
+    
+    
+}
+h3{
+    color: white;
+    padding-left: 725px;
+    padding-top: 62px;
+    
+}
+
+div.container{
+    padding-left: 300px;
+    position: relative;
+    top: 50px;
+  
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+li {
+    display: inline;
+  }
+ nav li{
+    margin-left: 50px;
+    position: relative;
+    top: 15px;
+    display: inline;
+
+}
+
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 200px;
+    
+}
+
+nav a:hover{
+    color: #000;
+}
+
+th{
+    padding-top: 150px;
+    position: relative;
+    left: 450px;
+    color: white;
+    font-size: 25px;
+
+
+}
+
+td{
+    position: relative;
+    left: 475px;
+    color: rgb(156, 55, 55);
+    font-size: 20px;
+}
+
+#alertError{
+    display: block;
+    margin: 1rem auto;
+    color: red;
+    font-weight: 14px;
+    font-size: 16px;
+    width: 200px;
+    position: relative;
+    top: 350px;
+}
+
+.hide{
+    display: none;
+}
+
+
+
